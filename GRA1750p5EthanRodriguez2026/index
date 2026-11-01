@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Olive Garden | Ethan Rodriguez, 2026</title>
+	<style>
+		body{
+			margin: 0;
+			background-color: saddlebrown;
+		}
+		wrapper{
+			width: 500px;
+			display: block;
+			margin: auto;
+			background-color: rgb(255,255,255,0.50);
+			padding: 20px;
+		}
+		header{
+			background-color: darkolivegreen;
+		}
+		.topwrapper{
+			backround-color: transparent;
+		}
+	</style>
+</head>
+
+<body>
+	<header>
+		<wrapper>
+		<img src="https://raw.githubusercontent.com/ethanr3013/GRA/refs/heads/main/olivegarden.png" class="logo" />
+		</wrapper>
+	</header>
+	<wrapper>
+	<main>
+		<h2>Unlimited Breadsticks!!!</h2>
+		<img src="banner.png" class="banner" />
+		<h3>Menu</h3>
+		<ul>
+		<li>Tour of Italy<br />
+		<img src="menu1.jpg" class="menu" />
+			 </li>
+		<li>Chicken Alfredo<br />
+		<img src="menu2.jpg" class="menu" />
+			 </li>
+		<li>Spaghetti with Homemade Sauce<br />
+		<img src="menu3.jpg" class="menu" />
+			 </li>
+		</ul>
+		<h3>Location</h3>
+		<h4> 2575 NE 8th St, Homestead, FL 33033 </h4>
+		<h3>Contact Us</h3>
+		<ul>
+		<li>305-245-1450</li>
+		<li>olivegarden.com/help/contact-us</li>
+		</ul>
+		</main>
+	<footer>
+		<p>&copy; 2026, Ethan Rodriguez. This is a fictitious web page created solely for the purpose of education and training. All products and people associated with this web page are also fictitious. Any resemblance to real brands, products, or people is purely coincidental. Information provided about the product is also fictitious and should not be construed to be representative of actual products on the market in a similar product category.</p></footer>
+	</wrapper>
+</body>
+</html>
